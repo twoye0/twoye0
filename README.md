@@ -8,6 +8,7 @@ Quantitative Finance • Mathematics • Systematic Trading
 
 ---
 
+
 # 👋 About Me | 소개
 
 I am a student majoring in **Financial Mathematics**, interested in **quantitative finance, mathematical modeling, and systematic trading**.
@@ -24,7 +25,9 @@ My goal is to become a **quantitative trader** who builds systematic strategies 
 저의 목표는 **수학적 사고, 통계적 분석, 프로그래밍을 결합하여  
 체계적인 투자 전략을 개발하는 퀀트 트레이더**가 되는 것입니다.
 
+
 ---
+
 
 # 🎓 Academic Background | 학업
 
@@ -32,7 +35,9 @@ My goal is to become a **quantitative trader** who builds systematic strategies 
 - 🏆 GPA: **4.45 / 4.5**
 - 🧮 Strong foundation in **mathematics and quantitative reasoning**
 
+
 ---
+
 
 # 🌍 Global Experience | 글로벌 경험
 
@@ -43,7 +48,9 @@ Developed a broader **international perspective** and communication experience.
 영국 **University of Sheffield**에서 단기 어학연수를 통해  
 국제적인 환경 속에서 다양한 문화와 시각을 경험했습니다.
 
+
 ---
+
 
 # 📚 Currently Studying | 현재 공부
 
@@ -53,7 +60,9 @@ Developed a broader **international perspective** and communication experience.
 - Python Programming
 - Financial Markets
 
+
 ---
+
 
 # 📈 Research Interests | 관심 분야
 
@@ -65,7 +74,9 @@ I enjoy exploring how **mathematics and data can explain financial markets**.
 - Systematic Investment Strategies
 - Portfolio Optimization
 
+
 ---
+
 
 # ⚙️ Tech Stack
 
@@ -74,13 +85,16 @@ I enjoy exploring how **mathematics and data can explain financial markets**.
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python)
 
+
 ---
+
 
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoye0&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoye0&layout=compact&theme=tokyonight)
+
 
 ---
 
