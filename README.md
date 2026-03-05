@@ -17,13 +17,11 @@ I am fascinated by the idea that **financial markets can be understood through m
 
 My goal is to become a **quantitative trader** who builds systematic strategies using **mathematics, statistics, and programming**.
 
-저는 **금융수학(Financial Mathematics)** 을 전공하며  
-**퀀트 금융, 수학적 모델링, 시스템 트레이딩**에 관심을 가지고 있습니다.
+저는 **금융수학(Financial Mathematics)** 을 전공하며  **퀀트 금융, 수학적 모델링, 시스템 트레이딩**에 관심을 가지고 있습니다.
 
 금융 시장이 **수학, 데이터, 그리고 체계적인 분석을 통해 이해될 수 있다는 점**에 깊은 매력을 느끼고 있습니다.
 
-저의 목표는 **수학적 사고, 통계적 분석, 프로그래밍을 결합하여  
-체계적인 투자 전략을 개발하는 퀀트 트레이더**가 되는 것입니다.
+저의 목표는 **수학적 사고, 통계적 분석, 프로그래밍을 결합하여  체계적인 투자 전략을 개발하는 퀀트 트레이더**가 되는 것입니다.
 
 
 ---
