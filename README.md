@@ -9,7 +9,7 @@ Quantitative Finance • Mathematics • AI Trading
 ---
 
 
-# 👋 About Me | 소개
+# 🕺🏻 About Me | 소개
 
 I am a student majoring in **Financial Mathematics**, interested in **quantitative finance, mathematical modeling, and systematic trading**.
 
