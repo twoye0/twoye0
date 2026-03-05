@@ -10,15 +10,11 @@ Quantitative Finance • Mathematics • Systematic Trading
 
 # 👋 About Me | 소개
 
-**EN**
-
 I am a student majoring in **Financial Mathematics**, interested in **quantitative finance, mathematical modeling, and systematic trading**.
 
 I am fascinated by the idea that **financial markets can be understood through mathematics, data, and rational analysis**.
 
 My goal is to become a **quantitative trader** who builds systematic strategies using **mathematics, statistics, and programming**.
-
-**KR**
 
 저는 **금융수학(Financial Mathematics)**을 전공하며  
 **퀀트 금융, 수학적 모델링, 시스템 트레이딩**에 관심을 가지고 있습니다.
@@ -76,6 +72,7 @@ I enjoy exploring how **mathematics and data can explain financial markets**.
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python)
 
 ---
 
