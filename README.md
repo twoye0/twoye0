@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=twoye0&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Quant%20Research&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
 <h1 align="center">Hi 👋 I'm twoye0</h1>
 
