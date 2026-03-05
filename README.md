@@ -28,6 +28,8 @@ Quant Research • Financial Engineering • Data Science
 ## 📫 Contact
 
 - GitHub: https://github.com/twoye0
+- E-mail: ellyarchive33@gmail.com
+- instagram: @twoye0
 
 - ---
 
@@ -45,8 +47,5 @@ Quant Research • Financial Engineering • Data Science
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+
