@@ -43,8 +43,7 @@ My goal is to become a **quantitative trader** who builds systematic strategies 
 
 Developed a broader **international perspective** and communication experience.
 
-영국 **University of Sheffield**에서 단기 어학연수를 통해  
-국제적인 환경 속에서 다양한 문화와 시각을 경험했습니다.
+영국 **University of Sheffield**에서 단기 어학연수를 통해  국제적인 환경 속에서 다양한 문화와 시각을 경험했습니다.
 
 
 ---
