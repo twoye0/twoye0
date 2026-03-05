@@ -88,16 +88,6 @@ I enjoy exploring how **mathematics and data can explain financial markets**.
 
 ---
 
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoye0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoye0&layout=compact&theme=tokyonight)
-
-
----
-
 # 📖 Verse I Live By
 
 > "I love you, O Lord, my strength."  
