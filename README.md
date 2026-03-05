@@ -3,35 +3,68 @@
 <h1 align="center">Hi 👋 I'm twoye0</h1>
 
 <p align="center">
-Quant Research • Financial Engineering • Data Science
+Quantitative Finance • Mathematics • Systematic Trading
 </p>
 
 ---
 
-## 🧠 About Me
+## ✨ About Me
 
-- 📊 Interested in **Quantitative Finance**
-- 📈 Studying **statistics, machine learning, and financial markets**
-- 🎓 Preparing for **Quant Graduate School / Quant Jobs**
+I am a student studying **Financial Mathematics**, passionate about **quantitative finance, mathematics, and programming**.
 
----
+As a **Christian**, I hope to live a life that **shares love with the world**.  
+At the same time, I am fascinated by the idea that **financial markets can be understood through mathematics, data, and systematic thinking**.
 
-## 📊 Areas of Interest
-
-- Algorithmic Trading
-- Statistical Modeling
-- Portfolio Optimization
-- Machine Learning for Finance
+My goal is to become a **quantitative trader** who develops systematic strategies by combining **mathematical reasoning, programming, and financial insight**.
 
 ---
 
-## 📫 Contact
+## 🧠 Academic Background
 
-- GitHub: https://github.com/twoye0
-- E-mail: ellyarchive33@gmail.com
-- instagram: @twoye0
+- 🏆 **Financial Mathematics major**
+- 📊 **GPA: 4.45**
+- 🧮 Strong background in **mathematics and quantitative thinking**
+- 🚀 Highly motivated and ambitious in pursuing challenging problems
 
-- ---
+---
+
+## 🌍 Global Experience
+
+- 🇬🇧 Attended a short-term language program at the **University of Sheffield (UK)**  
+- Developed a **global perspective and international mindset**
+
+---
+
+## 📚 Currently Studying
+
+- Real Analysis
+- Probability Theory
+- Cryptography
+- Python Programming
+- Finance & Financial Markets
+
+---
+
+## 📈 Interests
+
+I enjoy exploring how **mathematics and data can describe financial markets**.
+
+Some topics I am interested in:
+
+- Quantitative Trading
+- Mathematical Modeling of Markets
+- Statistical Analysis of Financial Data
+- Systematic Investment Strategies
+
+---
+
+## ⚙️ Tools
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -39,13 +72,16 @@ Quant Research • Financial Engineering • Data Science
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoye0&layout=compact&theme=tokyonight)
 
+---
+
+## 📖 Verse I Live By
+
+> "I love you, O Lord, my strength."  
+> — **Psalm 18:1**
 
 ---
 
-## ⚙️ Tech Stack
+## 🌱 Vision
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly)
-
+I want to grow as someone who understands financial markets through **mathematics and data**,  
+and ultimately build **systematic trading strategies grounded in rigorous analysis**.
