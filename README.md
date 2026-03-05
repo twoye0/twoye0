@@ -1,16 +1,30 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=twoye0&fontSize=40&fontColor=ffffff)
 
-<!--
-**twoye0/twoye0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm twoye0</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Quant Research • Financial Engineering • Data Science
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 📊 Interested in **Quantitative Finance**
+- 📈 Studying **statistics, machine learning, and financial markets**
+- 🎓 Preparing for **Quant Graduate School / Quant Jobs**
+
+---
+
+## 📊 Areas of Interest
+
+- Algorithmic Trading
+- Statistical Modeling
+- Portfolio Optimization
+- Machine Learning for Finance
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/twoye0
