@@ -36,3 +36,17 @@ Quant Research • Financial Engineering • Data Science
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoye0&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoye0&layout=compact&theme=tokyonight)
+
+
+---
+
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
