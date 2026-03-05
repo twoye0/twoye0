@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm twoye0</h1>
 
 <p align="center">
-Quantitative Finance • Mathematics • Systematic Trading
+Quantitative Finance • Mathematics • AI Trading
 </p>
 
 ---
