@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=230&section=header&text=Yeyeong Lee&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Financial%20Mathematics%20%7C%20Quant%20Research%20%7C%20Systematic%20Trading&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=230&section=header&text=twoye0&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Financial%20Mathematics%20%7C%20Quant%20Research%20%7C%20Systematic%20Trading&descAlignY=55)
 
 <h1 align="center">Hi 👋 I'm Elly</h1>
 
