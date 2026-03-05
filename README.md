@@ -28,3 +28,11 @@ Quant Research • Financial Engineering • Data Science
 ## 📫 Contact
 
 - GitHub: https://github.com/twoye0
+
+- ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoye0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoye0&layout=compact&theme=tokyonight)
