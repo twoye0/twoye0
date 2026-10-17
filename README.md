@@ -1,12 +1,12 @@
 # Hi, I'm Elly 😁
 
-*Generative Modeling · Flow Models · Efficient Generation*
+**Generative Modeling · Flow Models · Efficient Generation**
 
-I’m interested in understanding and building efficient generative models.
+I'm interested in building and understanding efficient generative models,  
+with a current focus on flow-based methods and distribution matching.
 
-Currently exploring flow-based generative modeling, distribution matching,
-and the learnability of generative transport.
+<br>
 
----
+### Research Interests
 
-`Flow Matching` · `Flow Maps` · `Distribution Matching` · `Consistency Models`
+`Flow Matching` &nbsp; `Flow Maps` &nbsp; `Distribution Matching` &nbsp; `Consistency Models`
