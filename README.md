@@ -1,4 +1,4 @@
-# Hi, I'm Elly 😁
+# Hi, I'm Elly 🪽
 
 **Generative Modeling · Flow Models · Efficient Generation**
 
